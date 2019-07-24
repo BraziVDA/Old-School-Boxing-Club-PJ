@@ -113,6 +113,16 @@ h1 {
     float: left;
     margin: 80px;
 }
+/*DIV BLOCKS*/
+.description {
+  display: inline-flex;
+  flex-direction: column;
+  color: #fff;
+}
+.video {
+  display: flex;
+  justify-content: center;
+}
 
 /*CAROUSEL*/
 
